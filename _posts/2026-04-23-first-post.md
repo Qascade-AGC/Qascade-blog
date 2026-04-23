@@ -101,3 +101,17 @@ If you're looking to launch, redesign, or scale your website — we can help.
 At Qascade, we focus on performance, clarity, and results.
 
 Contact us: https://github.com/Qascade-AGC
+
+---
+
+**Примечание о фотографиях кейсов.** Скриншоты лежат **в [корне репозитория блога](https://github.com/Qascade-AGC/Qascade-blog)** (та же папка, что `index.md` и `_config.yml`). Имена файлов:
+
+| Раздел поста | Файлы |
+|--------------|--------|
+| 1. ILLUMINA | `illumina-01.png` … `illumina-06.png` |
+| 2. White Feather Coffee Co. | `white-feather-coffee-co-01.png` … `white-feather-coffee-co-04.png` |
+| 3. Recording studio (Never Tired Centre) | `never-tired-centre-01.png` … `never-tired-centre-08.png` |
+| 4. Deep-Tech / Axelyth | `axelyth-01.png` … `axelyth-07.png` |
+| 5. Bilimshop | `bilimshop-01.png` … `bilimshop-06.png` |
+
+**На опубликованном сайте (GitHub Pages)** те же картинки отдаются **из корня сайта** с теми же именами, например путь `/<имя-файла>.png` относительно адреса из `url` в `_config.yml` (при пустом `baseurl` это будет `https://…github.io/illumina-01.png` и т.д.).
