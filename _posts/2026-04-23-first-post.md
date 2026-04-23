@@ -1,5 +1,5 @@
 ---
-title: "Our First Week: 5 Projects Delivered"
+title: "Our Tech Stack for MVPs"
 date: 2026-04-23
 ---
 
