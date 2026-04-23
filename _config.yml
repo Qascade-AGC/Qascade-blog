@@ -1,0 +1,16 @@
+title: Qascade
+description: Fast, modern and scalable web development
+theme: minima
+
+url: https://qascade.github.io
+baseurl: ""
+
+author: Qascade
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: dark
